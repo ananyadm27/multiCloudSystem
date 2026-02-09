@@ -1,0 +1,17 @@
+# Maven
+target/
+*.war
+
+# NetBeans
+nb-configuration.xml
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

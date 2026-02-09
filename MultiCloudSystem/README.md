@@ -19,8 +19,6 @@ to ensure high availability and fault tolerance.
 - Maven
 - Git & GitHub
 
-## 🔹 Project Architecture
-![Architecture](docs/architecture-diagram.png)
 
 ## 🔹 How to Run the Project
 1. Install JDK 17

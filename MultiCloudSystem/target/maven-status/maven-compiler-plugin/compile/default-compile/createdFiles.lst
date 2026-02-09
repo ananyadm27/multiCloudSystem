@@ -1,0 +1,7 @@
+com\multicloud\servlet\AdminLoginServlet.class
+com\multicloud\db\DBConnection.class
+com\multicloud\servlet\MemberLoginServlet.class
+com\multicloud\servlet\DownloadFileServlet.class
+com\multicloud\servlet\CreateCloudServlet.class
+com\multicloud\servlet\UploadFileServlet.class
+com\multicloud\servlet\MemberRegisterServlet.class
